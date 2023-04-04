@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 import AnimatedComponent from '../../AnimatedComponent/AnimatedComponent';
 import { device, mixins } from '../../Styles';
@@ -111,7 +112,7 @@ const Home = () => {
             <Start title='' />
             <p>
               Have any questions?
-              <a href='/contact' className='link'>Contact Us</a>
+              <Link to='/contact' className='link'>Contact Us</Link>
             </p>
           </div>
         </motion.div>
