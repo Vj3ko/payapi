@@ -1,12 +1,17 @@
 # Payapi Landing Page
 
 ## Screenshots
-![Screenshot of home page](/src/assets/design/ss-1.png)
-![Screenshot of about page](/src/assets/design/ss-2.png)
+<p align="left">
+  <img src="/src/assets/design/ss-1.png"  width="450" alt="home page screenshot" title="Home Page">
+  <img src="/src/assets/design/ss-2.png"  width="450" align="top" alt="about page screenshot" title="About Page">
+</p>
+
 
 ### Responsive 
-![Screenshot of pricing page](/src/assets/design/ss-3.png)
-![Screenshot of contact page](/src/assets/design/ss-4.png)
+<p align="left">
+  <img src="/src/assets/design/ss-3.png"  width="200"  alt="pricing page screenshot" title="Pricing Page">
+  <img src="/src/assets/design/ss-4.png" align="top"  width="200"  alt="contact page screenshot" title="Contact Page">
+</p>
 
 ## Overview
 
@@ -19,7 +24,7 @@
 - Framer motion (animations)
 
 
-[Live preview of a Chat App](https://payapi.pages.dev/)
+[Live preview of a PayApi landing page](https://payapi.pages.dev/)
 
 ## Author
 
