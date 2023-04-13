@@ -2,8 +2,8 @@
 
 ## Screenshots
 <p align="left">
-  <img src="/src/assets/design/ss-1.png"  width="450" alt="home page screenshot" title="Home Page">
-  <img src="/src/assets/design/ss-2.png"  width="450" align="top" alt="about page screenshot" title="About Page">
+  <img src="/src/assets/design/ss-1.png"  width="300" alt="home page screenshot" title="Home Page">
+  <img src="/src/assets/design/ss-2.png"  width="300" align="top" alt="about page screenshot" title="About Page">
 </p>
 
 
