@@ -21,7 +21,9 @@
 - JSX
 - Styled Components
 - React
+- React Router
 - Framer motion (animations)
+
 
 
 [Live preview of a PayApi landing page](https://payapi.pages.dev/)
